@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+	font: "Georgia",Times New Roman,Times,serif;
+	line-height: 1.5;
+}
+
+h1 {
+	text-align: center;
+	background-color: black;
+	padding: 15px 0;
+	color: white;
+}
+
+div{
+	float:left;
+	width: 45%;
+	padding: 10px;
+	display: inline-block;
+		
+}
+
+img {
+	float: left;
+	margin-right: 10px;
+}
+
+a{
+	color: #d21034;
+}
